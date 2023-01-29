@@ -1,0 +1,46 @@
+Paloalto
+domain : https://paloalto.cybermantra.net
+https://192.168.100.4/php/login.php?
+username : admin
+password : B@rg0nd3z
+
+Fortigate
+domain : https://fortigate.cybermantra.net
+https://192.168.100.5/login?redir=%2F
+username : admin
+password : B@rg0nd3z
+
+Fortiweb
+domain : https://fortiweb.cybermantra.net
+https://192.168.100.6/login?redir=%2F
+username : admin
+password : B@rg0nd3z
+
+FortiManager
+domain : https://fortimanager.cybermantra.net
+https://192.168.100.7/p/login/
+username : admin
+password : B@rg0nd3z
+
+PFsense
+domain : https://pfsense.cybermantra.net
+http://192.168.100.8/index.php
+username : admin
+password : B@rg0nd3z
+
+nginx
+192.168.100.9 
+usermane : samdon
+password : B@rg0nd3z
+
+192.168.100.10 openvpn
+
+Mikrotik
+http://192.168.100.11
+username : admin
+password : B@rg0nd3z
+
+Juniper
+
+Trendmicro
+
